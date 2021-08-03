@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    charu -- charu@clevertap.com
 
 # THANKS
 
