@@ -17,4 +17,4 @@ Please fork this reporsitory and then issue Pull Requests for review
 
 
 ### Copyright
-2-14 Git Training
+2-14 Git Training. All rights reserved.
