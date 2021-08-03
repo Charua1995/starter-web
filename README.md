@@ -5,7 +5,7 @@ This repository is for showing how Git and GitHub work. Adding a line for rebasi
 ##Introduction
 
 This is a simple example to show different parts of the Git repository using various commands using a web project
-
+Updatign for emergency fix after stashing.
 
 ## Purpose
 
